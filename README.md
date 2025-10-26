@@ -22,3 +22,16 @@ Mobile App: Flutter, Dart, HTTP package
 AI Model: Python / TensorFlow or other ML framework for lung cancer detection
 
 Other: JWT for authentication, HTTPS for secure communication
+
+# PROJECT IMAGES : 
+
+![Açıklama](https://github.com/AhmetFarukTUNC/LungCancerMobileApp_/blob/main/images/about.png)
+![Açıklama](https://github.com/AhmetFarukTUNC/LungCancerMobileApp_/blob/main/images/homepage.pmg)
+![Açıklama](https://github.com/AhmetFarukTUNC/LungCancerMobileApp_/blob/main/images/login.png)
+![Açıklama](https://github.com/AhmetFarukTUNC/LungCancerMobileApp_/blob/main/images/predict.png)
+![Açıklama](https://github.com/AhmetFarukTUNC/LungCancerMobileApp_/blob/main/images/privacy.png)
+![Açıklama](https://github.com/AhmetFarukTUNC/LungCancerMobileApp_/blob/main/images/register.png)
+![Açıklama](https://github.com/AhmetFarukTUNC/LungCancerMobileApp_/blob/main/images/result.png)
+
+
+
